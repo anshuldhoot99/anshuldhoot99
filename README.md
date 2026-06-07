@@ -2,9 +2,10 @@
 
 # 💫 Anshul Dhoot
 
-### 🚀 Full Stack Developer | ☁️ Cloud Architect | 🤖 AI/ML Enthusiast
+👨‍💻 𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 @ 𝗜𝗺𝗽𝗲𝘁𝘂𝘀 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 | 🚀 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | ☁️ 𝗔𝗪𝗦 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 | 🤖 𝗔𝗜 & 𝗟𝗟𝗠 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁
 
-**Building reliable, scalable, AI-powered solutions with obsessive focus on UX, system design & performance optimization.**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Cloud-Native+Applications;Full+Stack+Developer+(Angular+%2B+Node.js);AWS+Serverless+Architect;AI+%26+LLM+Integration+Enthusiast;Performance+Optimization+Specialist;Turning+Complex+Problems+Into+Elegant+Solutions" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuldhoot99)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/anshuldhoot99)
@@ -15,18 +16,25 @@
 
 ---
 
-## 🎯 About Me
+<h2>🎯 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲</h2>
 
-**Senior Software Engineer @ Impetus Technologies**
+👨‍💻 𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 @ 𝗜𝗺𝗽𝗲𝘁𝘂𝘀 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
 
-- 🔧 **Specialize in:** System Design, Performance Optimization, AWS Architecture, MongoDB Aggregation Pipelines
-- 🧠 **Passionate about:** Building intuitive UX, mentoring engineers, and solving complex distributed system challenges
-- 🚀 **Current focus:** AI-powered solutions, serverless architecture, and developer experience
-- 📚 **Always:** Learning emerging technologies and sharing knowledge with the community
+💡 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗦𝗸𝗶𝗹𝗹𝗲𝗱 𝗜𝗻 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗥𝗼𝗯𝘂𝘀𝘁 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗨𝘀𝗶𝗻𝗴 𝗡𝗼𝗱𝗲𝗝𝗦, 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 & 𝗡𝗲𝘀𝘁𝗝𝗦
+
+☁️ 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 𝗜𝗻 𝗖𝗹𝗼𝘂𝗱-𝗡𝗮𝘁𝗶𝘃𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲𝘀 𝗨𝘀𝗶𝗻𝗴 𝗔𝗪𝗦, 𝗟𝗮𝗺𝗯𝗱𝗮, 𝗔𝗣𝗜 𝗚𝗮𝘁𝗲𝘄𝗮𝘆, 𝗘𝘃𝗲𝗻𝘁𝗕𝗿𝗶𝗱𝗴𝗲, 𝗦𝟯, 𝗜𝗔𝗠 & 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀
+
+🤖 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗔𝗜, 𝗟𝗟𝗠𝘀, 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 & 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
+
+🎯 𝗗𝗿𝗶𝘃𝗲𝗻 𝗕𝘆 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 & 𝗨𝗫, 𝗖𝗼𝗺𝗺𝗶𝘁𝘁𝗲𝗱 𝗧𝗼 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗜𝗻𝘁𝘂𝗶𝘁𝗶𝘃𝗲, 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 & 𝗛𝗶𝗴𝗵-𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀
+
+📊 𝗦𝘁𝗿𝗼𝗻𝗴 𝗙𝗼𝗰𝘂𝘀 𝗢𝗻 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴
+
+🚀 𝗔𝗹𝘄𝗮𝘆𝘀 𝗦𝘁𝗿𝗶𝘃𝗶𝗻𝗴 𝗧𝗼 𝗕𝘂𝗶𝗹𝗱 𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲, 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 & 𝗨𝘀𝗲𝗿-𝗖𝗲𝗻𝘁𝗿𝗶𝗰 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀
 
 ---
 
-## 💻 Tech Stack
+<h2>💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -64,17 +72,7 @@
 
 ---
 
-## 🏆 Key Achievements
-
-- 🚀 **Built & optimized** cloud-native systems handling **50K+ concurrent transactions**
-- 📊 **Improved query performance** by **40%** through MongoDB aggregation pipeline optimization
-- 🎯 **Reduced Lambda execution time** from **15s to 3s** via targeted optimization on PDF generation
-- 🔧 **Mentored 5+ engineers** on system design patterns and AWS best practices
-- 📈 **Designed scalable architecture** supporting **multi-tenant** event-driven applications
-
----
-
-## 📊 GitHub Statistics
+<h2>📊 GitHub Statistics</h2>
 
 <div align="center">
 
@@ -88,24 +86,17 @@
 
 ---
 
-## 📈 What I'm Doing Now
+<h2>💬 Let's Build Together</h2>
 
-- 🔬 Exploring **AI/LLM integration** patterns in enterprise applications
-- 🏗️ Designing **event-driven microservices** architectures
-- 📚 Contributing to **engineering excellence** and knowledge sharing
-- 🚀 Building **scalable solutions** that prioritize UX and performance
+I'm passionate about solving complex technical problems and creating high-impact products. Whether you're building a scalable platform, optimizing a data pipeline, or integrating AI into your system—let's talk.
 
----
+<div align="center">
 
-## 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshuldhoot99)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/anshuldhoot99)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshuldhoot99@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](your-portfolio-url)
 
-I'm always interested in discussing:
-- 🏛️ System design & architecture
-- ☁️ AWS & cloud-native solutions
-- 🤖 AI/ML integration in production
-- 🔍 Performance optimization strategies
-- 👥 Cross-functional team leadership
-
-**📧 Reach out:** [anshuldhoot99@gmail.com](mailto:anshuldhoot99@gmail.com)
+</div>
 
 ---
